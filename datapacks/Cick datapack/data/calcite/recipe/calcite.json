@@ -1,0 +1,19 @@
+{
+	"result": {
+		"id": "minecraft:calcite",
+		"count": 2
+	},
+	"type": "crafting_shaped",
+	"pattern": [
+		"xy",
+		"yx"
+	],
+	"key": {
+		"x": {
+			"item": "minecraft:tuff"
+		},
+		"y": {
+			"item": "minecraft:quartz"
+		}
+	}
+}

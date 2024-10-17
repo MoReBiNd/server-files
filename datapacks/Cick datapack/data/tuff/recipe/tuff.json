@@ -1,0 +1,19 @@
+{
+	"result": {
+		"id": "minecraft:tuff",
+		"count": 2
+	},
+	"type": "crafting_shaped",
+	"pattern": [
+		"xy",
+		"yx"
+	],
+	"key": {
+		"x": {
+			"item": "minecraft:smooth_basalt"
+		},
+		"y": {
+			"item": "minecraft:quartz"
+		}
+	}
+}
